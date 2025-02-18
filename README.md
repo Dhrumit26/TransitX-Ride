@@ -1,4 +1,9 @@
+![hq720](https://github.com/user-attachments/assets/7d06d5a6-dc8e-4537-9558-07009470496a)
+
 # TransitX Ride
+<img width="500" alt="Screenshot 2025-02-17 at 4 36 48 PM" src="https://github.com/user-attachments/assets/a1573fc1-5834-41d7-9bdc-156a7c9e13cd" />
+
+
 
 ## Full Stack Ride-Sharing Platform
 

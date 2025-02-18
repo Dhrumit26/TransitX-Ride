@@ -1,4 +1,4 @@
-<img width="200" alt="S" src="https://github.com/user-attachments/assets/7d06d5a6-dc8e-4537-9558-07009470496a" />
+<img width="400" alt="S" src="https://github.com/user-attachments/assets/7d06d5a6-dc8e-4537-9558-07009470496a" />
 
 # TransitX Ride
 
